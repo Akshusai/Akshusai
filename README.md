@@ -1,5 +1,5 @@
 ### Hi there 👋
-<--Iam AKSHAYA R,
+<--Iam Akshaya R,
 A Passionate Frontend Developer From India
 
 - 🔭 I’m currently pursuing my 2nd year Bachelor's Information Technology Degree in St.Joseph's Institute of Technology Chennai
